@@ -39,10 +39,10 @@ console.log(pessoa3);
 
 // Classe (ES6):
 class PessoaClasse {
-  constructor(nome, idade) {
+  constructor(nome, idad e) {
     this.nome = nome;
     this.idade = idade;
-  }
+  } 
 }
 const pessoa4 = new PessoaClasse("João", 35);
 console.log(pessoa4);
